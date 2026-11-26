@@ -1,0 +1,14 @@
+{
+    "updatedAt":  "2026-11-26T10:55:18Z",
+    "notifications":  [
+                          {
+                              "id":  "test-20261126-01",
+                              "url":  "https://github.com/adeldura-debug/FLUX",
+                              "payload":  "",
+                              "createdAt":  "2026-11-26T10:55:18Z",
+                              "type":  "info",
+                              "title":  "إشعار تجريبي من FLUX",
+                              "body":  "وصل الإشعار بنجاح. جرّب فتح الرابط أو حفظه من مركز الإشعارات."
+                          }
+                      ]
+}
