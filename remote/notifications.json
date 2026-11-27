@@ -1,4 +1,14 @@
 {
-  "updatedAt": "2026-11-27T08:18:00Z",
-  "notifications": []
+  "updatedAt": "2026-11-27T20:07:36Z",
+  "notifications": [
+    {
+      "id": "ntf_vwafcctbxvo0",
+      "title": "تيست ثاني",
+      "body": "ماهر غية",
+      "type": "info",
+      "url": "",
+      "payload": "",
+      "createdAt": "2026-11-27T20:07:36Z"
+    }
+  ]
 }
