@@ -1,14 +1,4 @@
 {
-  "updatedAt": "2026-11-26T22:49:42Z",
-  "notifications": [
-    {
-      "id": "ntf_l3656gwlahsj",
-      "title": "اختبار اول",
-      "body": "هذا الاشعار اختبار",
-      "type": "info",
-      "url": "",
-      "payload": "",
-      "createdAt": "2026-11-26T22:49:42Z"
-    }
-  ]
+  "updatedAt": "2026-11-27T08:18:00Z",
+  "notifications": []
 }
